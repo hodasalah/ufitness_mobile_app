@@ -1,0 +1,12 @@
+{
+  "name": "ufitness",
+  "displayName": "ufitness",
+  "expo": {
+    "name": "ufitness",
+    "slug": "ufitness",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
